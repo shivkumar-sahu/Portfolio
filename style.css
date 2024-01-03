@@ -33,6 +33,31 @@ ul li a {
     text-decoration: none;
 }
 
+.content {
+    display: flex;
+    width: 100%;
+    height: 150px;
+    /* background: #eadfdf; */
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.content-left {
+    margin-left: 10px;
+}
+
+.content-right {
+    margin-right: 10px;
+    width: 50%;
+}
+
+.content-image {
+    border-radius: 50%;
+}
+
 /* a {
     text-decoration: none;
 } */
