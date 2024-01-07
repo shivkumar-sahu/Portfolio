@@ -58,6 +58,11 @@ ul li a {
     border-radius: 50%;
 }
 
+div a {
+    margin-left: 5px;
+    text-decoration: none;
+}
+
 /* a {
     text-decoration: none;
 } */
